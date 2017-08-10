@@ -171,3 +171,5 @@ js/testproto_libs2.js
 
 # Ignore the bazel symlinks
 /bazel-*
+
+!cross_compile/Makefile
